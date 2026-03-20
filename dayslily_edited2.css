@@ -99,3 +99,7 @@ h1 {
     list-style:none;
 }
 
+.items li img {
+    display:block;
+}
+
