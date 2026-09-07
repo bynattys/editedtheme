@@ -95,7 +95,7 @@ h1 { font-family:poppins; font-size:22px; text-transform:uppercase; font-style:i
 }
 
 .filters span:hover {
-    color:#b7ab9f;
+    color:#181818;
 }
 
 .filters input:checked + span {
