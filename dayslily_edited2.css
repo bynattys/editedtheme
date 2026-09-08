@@ -27,17 +27,17 @@ a, href {
     text-decoration:none;
     /* ^ removes the default underline of links */
 
-    color:#afca66;
+    color:#b7ab9f;
     /* ^ change the color of the links */
 }
 
 b, strong {
-    color:#eb426c;
+    color:#9f9888;
 }
 /* ^ change the color of bold text! */
 
 u, underline {
-    color:#eb426c;
+    color:#9f9888;
 }
 
 /* IF YOU WANT TO CHANGE THE COLOR OF ITALICS TEXT */
@@ -89,17 +89,17 @@ h1 { font-family:poppins; font-size:22px; text-transform:uppercase; font-style:i
     font-family:poppins;
     font-size:11px;
     font-weight:700;
-    color:#afca66;
+    color:#9f9888;
     text-transform:uppercase;
     letter-spacing:1px;
 }
 
 .filters span:hover {
-    color:#8ea353;
+    color:#b7ab9f;
 }
 
 .filters input:checked + span {
-    color:#8ea353;
+    color:#b7ab9f;
     text-decoration:underline;
     text-underline-offset:3px;
 }
