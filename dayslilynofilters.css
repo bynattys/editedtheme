@@ -32,17 +32,17 @@ a, href {
     text-decoration:none;
     /* ^ removes the default underline of links */
 
-    color:#2299bb;
+    color:#b7ab9f;
     /* ^ change the color of the links */
 }
 
 b, strong {
-    color:#000;
+    color:#454545;
 }
 /* ^ change the color of bold text! */
 
 u, underline {
-    color:#a5050a;
+    color:#454545;
 }
 
 /* IF YOU WANT TO CHANGE THE COLOR OF ITALICS TEXT */
